@@ -1,1 +1,1 @@
-# fake-news-detection-system
+# face-recognition-system
